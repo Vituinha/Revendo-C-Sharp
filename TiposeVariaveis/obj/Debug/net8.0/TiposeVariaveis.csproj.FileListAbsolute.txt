@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\TiposeVariaveis\bin\Debug\net8.0\TiposeVariaveis.exe
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\TiposeVariaveis\bin\Debug\net8.0\TiposeVariaveis.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\TiposeVariaveis\bin\Debug\net8.0\TiposeVariaveis.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\TiposeVariaveis\bin\Debug\net8.0\TiposeVariaveis.dll
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\TiposeVariaveis\bin\Debug\net8.0\TiposeVariaveis.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\TiposeVariaveis\obj\Debug\net8.0\TiposeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\TiposeVariaveis\obj\Debug\net8.0\TiposeVariaveis.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\TiposeVariaveis\obj\Debug\net8.0\TiposeVariaveis.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\TiposeVariaveis\obj\Debug\net8.0\TiposeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\TiposeVariaveis\obj\Debug\net8.0\TiposeVariaveis.dll
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\TiposeVariaveis\obj\Debug\net8.0\refint\TiposeVariaveis.dll
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\TiposeVariaveis\obj\Debug\net8.0\TiposeVariaveis.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\TiposeVariaveis\obj\Debug\net8.0\TiposeVariaveis.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\TiposeVariaveis\obj\Debug\net8.0\ref\TiposeVariaveis.dll
