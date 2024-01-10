@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\laços condicionais\bin\Debug\net8.0\laços condicionais.exe
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\laços condicionais\bin\Debug\net8.0\laços condicionais.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\laços condicionais\bin\Debug\net8.0\laços condicionais.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\laços condicionais\bin\Debug\net8.0\laços condicionais.dll
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\laços condicionais\bin\Debug\net8.0\laços condicionais.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\laços condicionais\obj\Debug\net8.0\laços condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\laços condicionais\obj\Debug\net8.0\laços condicionais.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\laços condicionais\obj\Debug\net8.0\laços condicionais.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\laços condicionais\obj\Debug\net8.0\laços condicionais.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\laços condicionais\obj\Debug\net8.0\laços condicionais.dll
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\laços condicionais\obj\Debug\net8.0\refint\laços condicionais.dll
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\laços condicionais\obj\Debug\net8.0\laços condicionais.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\laços condicionais\obj\Debug\net8.0\laços condicionais.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\laços condicionais\obj\Debug\net8.0\ref\laços condicionais.dll
