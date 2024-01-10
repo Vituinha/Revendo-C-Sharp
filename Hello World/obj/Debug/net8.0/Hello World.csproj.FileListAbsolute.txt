@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\Hello World\bin\Debug\net8.0\Hello World.exe
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\Hello World\bin\Debug\net8.0\Hello World.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\Hello World\bin\Debug\net8.0\Hello World.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\Hello World\bin\Debug\net8.0\Hello World.dll
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\Hello World\bin\Debug\net8.0\Hello World.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\Hello World\obj\Debug\net8.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\Hello World\obj\Debug\net8.0\Hello World.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\Hello World\obj\Debug\net8.0\Hello World.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\Hello World\obj\Debug\net8.0\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\Hello World\obj\Debug\net8.0\Hello World.dll
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\Hello World\obj\Debug\net8.0\refint\Hello World.dll
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\Hello World\obj\Debug\net8.0\Hello World.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\Hello World\obj\Debug\net8.0\Hello World.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\IntroducaoAoC#UmaAbordagemPraticaUdemy\Hello World\obj\Debug\net8.0\ref\Hello World.dll
