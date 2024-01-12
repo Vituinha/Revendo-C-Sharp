@@ -1,10 +1,10 @@
 ﻿using System;
+using System.Threading;
 
-namespace Calculator
+namespace StopWatch
 {
-    class Program
-    {
-        static void Main(String[] args)
+    class Program{
+        static void Main (String[] args)
         {
             Menu();
         }
@@ -12,98 +12,48 @@ namespace Calculator
         static void Menu()
         {
             Console.Clear();
+            Console.WriteLine("S = Segundo => 10s = 10 segundos\nM = Minuto => 1m = 1 minuto\n0 = Sair\nQuanto tempo deseja contar?");
+            String data = Console.ReadLine().ToLower();
 
-            Console.WriteLine("Selecione uma operação:");
-            Console.WriteLine("1 - Soma\n2 - Subtração\n3 - Divisão\n4 - Multiplicação\n5 - Sair");
+            char type = char.Parse(data.Substring(data.Length - 1,1));
+            int time = int.Parse(data.Substring(0, data.Length - 1));
+            //Substring pega uma quantidade (segunda variável) selecionada começando pela primeira variável
+            //Lenght pega a quantidade de caracteres que uma string possui
+            int multiplier = 1;
 
-            Console.WriteLine("------------");
-            short res = short.Parse(Console.ReadLine());
+            if(type == 'm')
+                multiplier = 60;
 
-            switch(res)
+            if(time == 0)
+                System.Environment.Exit(0);
+
+            PreStart(time * multiplier);
+        }
+
+        static void PreStart(int time)
+        {
+            Console.Clear();
+            Console.WriteLine("Ready...");
+            Thread.Sleep(1000);
+            Console.WriteLine("Set...");
+            Thread.Sleep(1000);
+            Console.WriteLine("Go!");
+            Thread.Sleep(1000);
+
+            Start(time);
+        }
+        static void Start(int time)
+        {
+            for(int currentTime = 1; currentTime <= time; currentTime++)
             {
-                case 1:
-                    Soma();
-                    break;
-                case 2:
-                    Subtracao();
-                    break;
-                case 3:
-                    Divisao();
-                    break;
-                case 4:
-                    Multiplicacao();
-                    break;
-                case 5:
-                    System.Environment.Exit(0);
-                    break;
-                default:
-                    Console.WriteLine("Opção inválida!");
-                    break;
+                Console.Clear();
+                Console.WriteLine(currentTime);
+                Thread.Sleep(1000);
             }
-        }
 
-        static void Soma()
-        {
             Console.Clear();
-            
-            Console.Write("Primeiro Valor: ");
-            float v1 = float.Parse(Console.ReadLine());
-            
-            Console.Write("Segundo valor: ");
-            float v2 = float.Parse(Console.ReadLine());
-            
-            float resultado = v1 + v2;
-            //Console.WriteLine("Resultado = " + resultado); Ambos funcionam igualmente
-            Console.WriteLine($"Resultado = {resultado}");
-            Console.ReadKey();
-            Menu();
-        }
-
-        static void Subtracao()
-        {
-            Console.Clear();
-
-            Console.Write("Primeiro valor: ");
-            float v1 = float.Parse(Console.ReadLine());
-
-            Console.Write("Segundo valor: ");
-            float v2 = float.Parse(Console.ReadLine());
-
-            float resultado = v1 - v2;
-            Console.WriteLine($"Resultado = {resultado}");
-            Console.ReadKey();
-            Menu();
-        }
-
-        static void Divisao()
-        {
-            Console.Clear();
-
-            Console.Write("Primeiro valor: ");
-            float v1 = float.Parse(Console.ReadLine());
-
-            Console.Write("Segundo valor: ");
-            float v2 = float.Parse(Console.ReadLine());
-
-            float resultado = v1 / v2;
-            Console.WriteLine($"Resultado = {resultado}");
-            Console.ReadKey();
-            Menu();
-        }
-
-        static void Multiplicacao()
-        {
-            Console.Clear();
-
-            Console.Write("Primeiro valor: ");
-            float v1 = float.Parse(Console.ReadLine());
-
-            Console.Write("Segundo valor: ");
-            float v2 = float.Parse(Console.ReadLine());
-
-            float resultado = v1 * v2;
-            Console.WriteLine($"Resultado = {resultado}");
-            Console.ReadKey();
+            Console.WriteLine("StopWatch Finalizado!");
+            Thread.Sleep(2500);
             Menu();
         }
     }
