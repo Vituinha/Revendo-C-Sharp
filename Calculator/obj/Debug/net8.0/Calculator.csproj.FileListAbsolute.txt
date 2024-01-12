@@ -1,0 +1,14 @@
+c:\Users\victo\OneDrive\Documents\Calculator\bin\Debug\net8.0\Calculator.exe
+c:\Users\victo\OneDrive\Documents\Calculator\bin\Debug\net8.0\Calculator.deps.json
+c:\Users\victo\OneDrive\Documents\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+c:\Users\victo\OneDrive\Documents\Calculator\bin\Debug\net8.0\Calculator.dll
+c:\Users\victo\OneDrive\Documents\Calculator\bin\Debug\net8.0\Calculator.pdb
+c:\Users\victo\OneDrive\Documents\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\victo\OneDrive\Documents\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+c:\Users\victo\OneDrive\Documents\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+c:\Users\victo\OneDrive\Documents\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+c:\Users\victo\OneDrive\Documents\Calculator\obj\Debug\net8.0\Calculator.dll
+c:\Users\victo\OneDrive\Documents\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+c:\Users\victo\OneDrive\Documents\Calculator\obj\Debug\net8.0\Calculator.pdb
+c:\Users\victo\OneDrive\Documents\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+c:\Users\victo\OneDrive\Documents\Calculator\obj\Debug\net8.0\ref\Calculator.dll
