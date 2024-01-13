@@ -1,1 +1,1 @@
-Relembrando como utilizar C# como .NET junto de suas funções e métodos com classe junto de manipulação de arquivos locais.
+Editor HTML utilizando separação de arquivos e regex para validação de negrito por <strong></strong>
