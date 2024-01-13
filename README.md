@@ -1,1 +1,1 @@
-Relembrando como utilizar C# como .NET junto de suas funções e métodos com classe junto de manipulação de arquivos locais.
+Criando um aplicativo para criar um arquivo de texto com os dados digitados pelo usuário e abri-lo exibindo o texto nele localizado.
